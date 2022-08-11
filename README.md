@@ -1,4 +1,4 @@
-This repo is a collection of solutions to Kaggle project: Predict-Future-Sales
+This repo is a collection of solutions to Kaggle project: `Predict Future Sales`.
 
 `coursera-final-project-submission`: 
       https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales
