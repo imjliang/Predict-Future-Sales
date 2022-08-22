@@ -7,3 +7,6 @@ This repo is a collection of solutions to Kaggle project: `Predict Future Sales`
       
 `submission test1`: 
       https://www.kaggle.com/code/andrespadillaucros/3-predict-future-sales
+      
+ `predict-future-sales-top-11-solution`:
+     https://www.kaggle.com/code/szhou42/predict-future-sales-top-11-solution/notebook
